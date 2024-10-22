@@ -26,7 +26,7 @@ languages with a solid understand of core programming concepts. :smile:
   
 - 🌱 I’m currently learning TypeScript
   
-- 💬 Ask me about React Native, Sql/NoSQL, PHP, Delphi and Others Javascript Frameworks
+- 💬 Feel free to ask me about React Native, Sql/NoSQL, PHP/Laravel, Delphi and other Javascript Frameworks
   
 - ⚡ Fun fact: I enjoy beatboxing.
 
