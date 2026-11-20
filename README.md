@@ -20,7 +20,7 @@ languages with a solid understand of core programming concepts. :smile:
 
 - 🔭 I’m currently working as a Full Stack Developer
 
-- 💻 Here you can explore all the projects I've worked on <https://abduhaddad.my.canva.site/>
+- 💻 Here you can explore all the projects I've worked on <https://bit.ly/4ksCXhi/>
   
 - 📧 You can reach out to me on **alhaddadabdullah832@gmail.com**
   
