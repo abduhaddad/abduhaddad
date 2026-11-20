@@ -10,7 +10,7 @@
 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=abduhaddad&style=flat&color=blue"> [![Github](https://img.shields.io/github/followers/abduhaddad?label=Follow&style=social)](https://github.com/abduhaddad)
 
-<div size='20px'> Hi! My name is Abdullah, I started learning programming in high school and have over 5 years of experience. Proficient in various programming
+<div size='20px'> Hi! My name is Abdullah, I started learning programming in high school, proficient in various programming
 languages with a solid understand of core programming concepts. :smile: 
 </div>
 
