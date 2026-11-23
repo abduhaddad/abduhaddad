@@ -20,7 +20,7 @@ languages with a solid understand of core programming concepts. :smile:
 
 - 🔭 I’m currently working as a Full Stack Developer
 
-- 💻 Here you can explore all the projects I've worked on <https://bit.ly/4ksCXhi/>
+- 💻 Here you can explore all the projects I've worked on <https://me.attenka.com>
     
 - 🌱 I’m currently learning TypeScript
   
